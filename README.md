@@ -1,4 +1,4 @@
-# 🎬 Basit Film Uygulaması / Simple Movie App
+# 🎬 Film Uygulaması / Movie App
 
 Bu proje, bir film API'si kullanarak film bilgilerini gösteren basit bir web uygulamasıdır.
 
