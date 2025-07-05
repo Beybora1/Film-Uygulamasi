@@ -2,7 +2,7 @@
 
 //http://www.omdbapi.com/?t=${movie}&apikey=[key]&
 
-let key = "bf33f271";
+let key = "[your_key]";
 let myMovie = document.getElementById("movie-name");
 let btn = document.getElementById("search-btn");
 let result =  document.getElementById("result");
